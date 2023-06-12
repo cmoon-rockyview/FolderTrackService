@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bx2LZ56QMO293TMCqE49yZpTC/DT11SWOlW7km+ifAAwMQdqKwuu5Ypm8dAzJj6oF10y0dVLOaRw8C1szCCwgg==",
+  "dgSpecHash": "1Pxu0GrfMTvf2EOuxpzjhs527e9v0r4UXfDgfSH+MlNM8CJkBaCt7RObPXtYh0uSc1XF7kvama7vri4IFyhCEw==",
   "success": true,
-  "projectFilePath": "D:\\GitHubRepo\\FileTrackService\\FileTrackService.csproj",
+  "projectFilePath": "D:\\GitHubRepo\\FolderTrackService\\FileTrackService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chmoon\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\chmoon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

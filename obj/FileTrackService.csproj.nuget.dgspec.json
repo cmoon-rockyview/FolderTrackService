@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubRepo\\FileTrackService\\FileTrackService.csproj": {}
+    "D:\\GitHubRepo\\FolderTrackService\\FileTrackService.csproj": {}
   },
   "projects": {
-    "D:\\GitHubRepo\\FileTrackService\\FileTrackService.csproj": {
+    "D:\\GitHubRepo\\FolderTrackService\\FileTrackService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubRepo\\FileTrackService\\FileTrackService.csproj",
+        "projectUniqueName": "D:\\GitHubRepo\\FolderTrackService\\FileTrackService.csproj",
         "projectName": "FileTrackService",
-        "projectPath": "D:\\GitHubRepo\\FileTrackService\\FileTrackService.csproj",
+        "projectPath": "D:\\GitHubRepo\\FolderTrackService\\FileTrackService.csproj",
         "packagesPath": "C:\\Users\\chmoon\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubRepo\\FileTrackService\\obj\\",
+        "outputPath": "D:\\GitHubRepo\\FolderTrackService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chmoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
